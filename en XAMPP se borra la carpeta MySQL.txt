@@ -1,0 +1,5 @@
+en XAMPP se borra la carpeta MySQL y se copia las dos carpetas que tiene el profe 
+y se coloca start a XAMPP y se abre
+
+puerto 3311 o 3315
+XAMPP se apaga y se enciende para que se refresque
